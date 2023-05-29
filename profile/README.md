@@ -8,12 +8,12 @@ According to a 2020 study by Adobe, 61% of respondents  nd it di cult to generat
 ## Member of Team C23-PS285
 | Cohort ID | Name | Learning Path |
 |---------|---------|---------|
-|M083DSX2932|Charisma Deo Sagitarius|Machine Learning|
-|M340DKX4328|Anas Hibatullah Djoko Susilo|Machine Learning|
-|C067DSY3393|Septriani Silalahi|Cloud Computing|
-|C083DSX2414|Dhillen Brahmantya Pradifta|Cloud Computing|
-|A083DSX3202|Dzul Fikri|Mobile Development|
-|A067DKX3844|Reza Ahmad Al Ghazali|Mobile Development|
+|M083DSX2932|Charisma Deo Sagitarius|[Machine Learning](https://github.com/idekita/machine-learning)|
+|M340DKX4328|Anas Hibatullah Djoko Susilo|[Machine Learning](https://github.com/idekita/machine-learning)|
+|C067DSY3393|Septriani Silalahi|[Cloud Computing](https://github.com/idekita/cloud-computing)|
+|C083DSX2414|Dhillen Brahmantya Pradifta|[Cloud Computing](https://github.com/idekita/cloud-computing)|
+|A083DSX3202|Dzul Fikri|[Mobile Development](https://github.com/idekita/mobile-development)|
+|A067DKX3844|Reza Ahmad Al Ghazali|[Mobile Development](https://github.com/idekita/mobile-development)|
 
 ## 
 <p align="center">
