@@ -1,6 +1,6 @@
 # About idekita | Bangkit Capstone Project 2023 Batch 1 | Team C23-PS285
 
-<img alt="mockup" src="https://github.com/idekita/.github/blob/main/profile/mockup.png" width="500"><br>
+<img alt="mockup" src="https://github.com/idekita/.github/blob/main/profile/mockup.png"><br>
 
 ## Abstract
 Indonesia is the largest archipelago in the world, consisting of 17,504 islands with an area of 1,904,570 km2. In addition, in 2021, Indonesia's population reached 273.8 million people. This causes many problems that occur but cannot be channeled properly. While Indonesia's diverse population, as a result of these geographical features, can give rise to a wide variety of perspectives and ideas.  
