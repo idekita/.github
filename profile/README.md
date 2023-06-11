@@ -1,4 +1,4 @@
-# About idekita | Bangkit Capstone Project 2023 Batch 1 | Team C23-PS285
+# Repository Capstone Project Bangkit 2023 | Team C23-PS285 | idekita
 
 <img alt="mockup" src="https://github.com/idekita/.github/blob/main/profile/mockup.png"><br>
 
