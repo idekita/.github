@@ -16,7 +16,10 @@ According to a 2020 study by Adobe, 61% of respondents find it difficult to gene
 |C067DSY3393|Septriani Silalahi|[Cloud Computing](https://github.com/idekita/cloud-computing)|
 |C083DSX2414|Dhillen Brahmantya Pradifta|[Cloud Computing](https://github.com/idekita/cloud-computing)|
 |A083DSX3202|Dzul Fikri|[Mobile Development](https://github.com/idekita/mobile-development)|
-|A067DKX3844|Reza Ahmad Al Ghazali|[Mobile Development](https://github.com/idekita/mobile-development)|
+|A067DKX3844|Reza Ahmad Al Ghazali|[Mobile Development](https://github.com/idekita/mobile-development)|'
+
+## Cloud Architecture
+<img alt="mockup" src="https://github.com/idekita/.github/blob/main/profile/Cloud-Architecture.png"><br>
 
 ## 
 <p align="center">
